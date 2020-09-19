@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.4.0](https://www.github.com/jef/nvidia-snatcher/compare/v1.3.0...v1.4.0) (2020-09-19)
+
+
+### Features
+
+* webpage toggle, sound notification, fix evga links ([#52](https://www.github.com/jef/nvidia-snatcher/issues/52)) ([a217409](https://www.github.com/jef/nvidia-snatcher/commit/a21740942bbbbe967948062fa06cfc82c31eb755))
+
 ## [1.3.0](https://www.github.com/jef/nvidia-snatcher/compare/v1.2.0...v1.3.0) (2020-09-19)
 
 
